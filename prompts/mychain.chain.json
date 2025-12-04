@@ -1,0 +1,9 @@
+{
+  "name": "Full Code Analysis",
+  "description": "Complete workflow: review → refactor → tests",
+  "prompts": [
+    "1-review.md",
+    "2-refactor.md",
+    "3-implement.md"
+  ]
+}
