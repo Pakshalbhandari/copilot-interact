@@ -4,6 +4,7 @@
   "prompts": [
     "1-review.md",
     "2-refactor.md",
-    "3-implement.md"
+    "3-implement.md",
+    "4-test.md"
   ]
 }
