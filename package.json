@@ -2,7 +2,11 @@
   "name": "copilot-interact",
   "displayName": "Copilot Interact",
   "description": "Extension to invoke Copilot with custom prompts",
-  "version": "0.0.1",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Pakshalbhandari/copilot-interact.git"
+  },
   "engines": {
     "vscode": "^1.106.1"
   },
